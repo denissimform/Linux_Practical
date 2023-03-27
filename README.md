@@ -1,1 +1,1 @@
-# Here you can learn soe basic linux commands!
+# Here you can learn some basic linux commands!
